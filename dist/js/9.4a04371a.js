@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkminigames"]=self["webpackChunkminigames"]||[]).push([[9],{9:function(n,e,u){u.r(e),u.d(e,{default:function(){return c}});var i=function(){var n=this,e=n._self._c;return e("div",[n._v("打字机游戏")])},t=[],l={name:"typing"},s=l,r=u(1001),a=(0,r.Z)(s,i,t,!1,null,null,null),c=a.exports}}]);
+//# sourceMappingURL=9.4a04371a.js.map
