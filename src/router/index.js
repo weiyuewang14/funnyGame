@@ -19,6 +19,11 @@ const routes = [
         path: "/typing",
         name: "typing",
         component: () => import("@/components/typing")
+      },
+      {
+        path: "/mine-sweeper",
+        name: "minesweeper",
+        component: () => import("@/components/mineSweeper")
       }
     ]
   },
